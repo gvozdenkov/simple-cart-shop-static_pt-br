@@ -1,8 +1,0 @@
-.card {
-  max-width: 360px;
-  display: flex;
-  flex-flow: column;
-  align-items: center;
-  padding: 20px;
-  box-sizing: border-box;
-}
